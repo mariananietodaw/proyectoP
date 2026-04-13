@@ -15,7 +15,7 @@ import java.util.TimeZone;
 public class ConexionMySQL {
 
     // Base de datos a la que nos conectamos
-    private String BD;
+    private String BDD;
     // Usuario de la base de datos
     private String USUARIO;
     // Contraseña del usuario de la base de datos
